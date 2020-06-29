@@ -1,0 +1,26 @@
+.navbar
+{
+    background-color: #4A4A4A;
+    border-bottom: 5px solid #5ACAD5;
+}
+#logopart1
+{
+    color: #5ACAD5;
+    font-size: 27px;
+}
+#logopart2
+{
+    font-size: 32px;
+    font-weight: bold;
+}
+.contactme
+{
+	background-color: white;
+	padding: 10px;
+	margin: 10px auto 10px;
+	border: 4px solid #5ACAD5;
+}
+button
+{
+	margin-top: 100px;
+}
